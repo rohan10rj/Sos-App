@@ -1,2 +1,2 @@
 # Sos-App
-#punde is MC
+# Mane bsdwaala
